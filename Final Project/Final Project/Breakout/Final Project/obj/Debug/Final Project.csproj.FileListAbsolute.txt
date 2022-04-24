@@ -1,0 +1,10 @@
+M:\Programming\Final Project\Breakout\Final Project\bin\Debug\Final Project.exe.config
+M:\Programming\Final Project\Breakout\Final Project\bin\Debug\Final Project.exe
+M:\Programming\Final Project\Breakout\Final Project\bin\Debug\Final Project.pdb
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final_Project.Form1.resources
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final Project.exe
+M:\Programming\Final Project\Breakout\Final Project\obj\Debug\Final Project.pdb
